@@ -17,6 +17,8 @@
 		NOTES:
 		reference for string building
 		http://www.aliaspooryorik.com/blog/index.cfm/e/posts.details/post/string-concatenation-performance-test-128
+		
+		okiray değiştirdi
 	//--->
 
 	<!--- namespace for Mustache private variables (to avoid name collisions when extending Mustache.cfc) --->
